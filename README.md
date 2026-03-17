@@ -1,4 +1,4 @@
-# 📚 PFE Papers Summary 
+# PFE Papers Summary 
 
 Bienvenue dans le repository **PFE Papers Summary** !  
 Ce dépôt contient tous les articles scientifiques et ressources que nous lisons dans le cadre de notre **Projet de Fin d’Études (PFE)**.  
@@ -6,7 +6,7 @@ L’objectif est de centraliser nos lectures, de résumer les idées principales
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 
 - Structurer et suivre notre veille scientifique
 - Résumer les articles pour mieux comprendre les concepts clés
@@ -15,7 +15,7 @@ L’objectif est de centraliser nos lectures, de résumer les idées principales
 
 ---
 
-## 📂 Structure du repository
+## Structure du repository
 
 | Dossier        | Description |
 |----------------|-------------|
