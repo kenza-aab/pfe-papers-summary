@@ -1,14 +1,14 @@
 
 ---
 
-# 📂 Articles élus ⭐
+# Articles élus ⭐
 
 Bienvenue dans le dossier **`elu/`** du repository **PFE Papers Summary**.  
 Ce sous-dossier contient les **articles les plus importants** pour notre PFE, ceux que nous avons sélectionnés comme stratégiques.
 
 ---
 
-## 🧩 Que trouve-t-on dans ce dossier ?
+## Que trouve-t-on dans ce dossier ?
 
 - Des fichiers Markdown (`.md`) pour chaque article **sélectionné comme prioritaire**.  
 - Chaque fichier contient :
