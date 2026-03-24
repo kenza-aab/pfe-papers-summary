@@ -23,12 +23,6 @@ Ce sous-dossier contient tous les articles que nous avons lus et résumés dans 
 ### Résumé
 L’article conclut que les hallucinations sont presque inévitables dans les modèles de génération probabiliste et que la voie la plus fiable consiste à intégrer l’estimation d’incertitude, la détection robuste et une supervision humaine dans une architecture en profondeur : données de haute qualité → alignement du modèle → contrôles d’inférence (RAG, auto‑vérification, interventions de décodage). 
 
-### Concepts clés
-- Hallucination dans les LLMs  
-- Détection des hallucinations  
-- Méthodes de mitigation  
-- Évaluation des modèles
-
  <h3>Principaux problèmes abordés</h3>
 <p align="center">
   <img src="./uploads/tab1.PNG" width="500">
@@ -39,4 +33,25 @@ L’article conclut que les hallucinations sont presque inévitables dans les mo
   <img src="./uploads/tab2.PNG" width="500">
 </p>
 
+### Concepts clés (Défauts majeurs)
+
+**Les fausses déclarations dans les LLMs s'organisent ainsi :**  
+
+- **Hallucination (sortie qui contredit les connaissances accessibles du modèle)**
+  
+  - **Factualité vs. Fidélité** (dimension de l’exactitude externe vs. l’adhésion au contexte)
+
+  - **Typologie principale**  
+    - **Intrinsèque** : violation du contexte ou des instructions fournies (ex. chiffre d’affaires erroné)  
+    - **Extrinsèque** : génération d’informations non vérifiables dans le contexte d’entraînement (ex. plans d’expansion inventés)
+      
+  - **Manifestations spécifiques**  
+    - **Contradiction**  
+      -> Factuelle (contre des faits connus)  
+      -> Contextuelle (contre l’entrée fournie)  
+    - **Fabrication** (entités, événements ou citations complètement inventés)  
+    - **Sophisme logique** (raisonnement invalide, ex. « Si A > B et B > C, alors C > A »)  
+    - **Incohérence d’instruction** (déviation par rapport à la consigne)  
+    - **Incohérence de contexte** (déviation du texte source)  
+    - **Erreur d’entité / de relation** (nom d’entité incorrect, relation déformée)  
 ---
