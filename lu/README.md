@@ -33,12 +33,12 @@ L’article conclut que les hallucinations sont presque inévitables dans les mo
 - Méthodes de mitigation  
 - Évaluation des modèles
 
- <h3>Tableau 1</h3>
+ <h3>Principaux problèmes abordés</h3>
 <p align="center">
   <img src="./uploads/tab1.PNG" width="500">
 </p>
 
-<h3>Tableau 2</h3>
+<h3>techniques de detection des hallucination/factualités</h3>
 <p align="center">
   <img src="./uploads/tab2.PNG" width="500">
 </p>
