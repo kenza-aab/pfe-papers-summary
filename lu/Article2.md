@@ -30,16 +30,21 @@ La detection s'appuie sur quatres axes :
  Trois stratégies decrites :
 - **Filtrage et amélioration des données**
 - **Edition du modèle (knowledge editing, RLHF)**
-- **RAG**
+- **RAG** (ou ses altérnatives)
 
 <h3>Limitations du RAG et recommandations</h3>
 
 L’article montre que le RAG échoue lorsque le récupérateur ne trouve pas de documents pertinents ou renvoie des sources contradictoires.
 
 ###Solutions proposées : 
-- Récupération adaptative.
-• Attribution robuste des sources.
-• Extension aux hallucinations vision‑langage et à la probing de la frontière de connaissance.
+- **Récupération adaptative**
+- **Attribution robuste des sources**
+- **Extension aux hallucinations vision‑langage et à la probing de la frontière de connaissance**
+
+---
+
+<h3> Conclusion </h3>
+L'article formule explicitement des _open questions_ : comment mesurer la certitude du modèle, comment intégrer la supervision humaine à grande échelle, et comment concevoir des métriques universelles pour les deux niveaux de taxonomie.
 
 ---
 
