@@ -15,10 +15,7 @@ Ce sous-dossier contient tous les articles que nous avons lus et résumés dans 
 
 ---
 
-## Article 1
-
-### Titre
-**A Survey on Hallucination in Large Language Models: Definitions, Detection, and Mitigation**
+## Article (1) : A Survey on Hallucination in Large Language Models: Definitions, Detection, and Mitigation (2026)
 
 ### Lien
 [Lire l’article](https://www.preprints.org/frontend/manuscript/f9d1a7b519e1f4d5aa639cd7e0158fc0/download_pub)
