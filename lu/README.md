@@ -35,7 +35,7 @@ L’article conclut que les hallucinations sont presque inévitables dans les mo
 
  <h3>Tableau 1</h3>
 <p align="center">
-  <img src="./tab1.PNG" width="500">
+  <img src="./uploads/tab1.PNG" width="500">
 </p>
 
 <h3>Tableau 2</h3>
