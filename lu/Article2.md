@@ -26,7 +26,7 @@ La detection s'appuie sur quatres axes :
 - **Métriques d’incertitude** : évaluées sur des bancs tels que **HalluEval**, **TruthfulQA** et **HalluQA**.
 ### Benchmarks spécifiques :
 
-Huang répertorie les jeux de référence : HalluEval, Med‑HALT, TruthfulQA et décrit leurs domaines d’évaluation (ouvert, médical, factuel).
+L'article répertorie les jeux de référence : HalluEval, Med‑HALT, TruthfulQA et décrit leurs domaines d’évaluation (ouvert, médical, factuel).
 
 <p align="center">
   <img src="./uploads/figure1.PNG" width="500">
