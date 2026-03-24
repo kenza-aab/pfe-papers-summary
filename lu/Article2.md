@@ -32,6 +32,15 @@ La detection s'appuie sur quatres axes :
 - **Edition du modèle (knowledge editing, RLHF)**
 - **RAG**
 
+<h3>Limitations du RAG et recommandations</h3>
+
+L’article montre que le RAG échoue lorsque le récupérateur ne trouve pas de documents pertinents ou renvoie des sources contradictoires.
+
+###Solutions proposées : 
+- Récupération adaptative.
+• Attribution robuste des sources.
+• Extension aux hallucinations vision‑langage et à la probing de la frontière de connaissance.
+
 ---
 
 
