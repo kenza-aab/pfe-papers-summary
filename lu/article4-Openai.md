@@ -9,7 +9,8 @@ donc ou, durant la créations du modèle, a quel moment durant ce processus, ces
   qui souvent et inévitablement, contient des erreurs et des half-truths. Selon l'article,
   même si on parviendrait à entrainer un LLM sur un dataset ayant 100% d'informations justes (ce qui n'est même pas possible);
   ce ne serait quand même pas suffisant pour eliminer totalement ou eviter que ce LLM hallucine !
+  
   **The distribution of language is initially learned from a corpus of training examples, which
   inevitably contains errors and half-truths. However, we show that even if the training data were
   error-free, the objectives optimized during language model training would lead to errors being
-  generated.**
+  generated.** => the objectives optimized 🤔
