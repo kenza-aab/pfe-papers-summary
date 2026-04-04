@@ -16,3 +16,7 @@ donc ou, durant la créations du modèle, a quel moment durant ce processus, ces
   generated.** => the objectives optimized 🤔
 
 - Optimized objectives : ou le modèle se fait evaluer selon s'il répond juste ou pas, et selon l'article c'est là que se trouve le problème
+  **Consider questions of the form “Is this
+  a valid language model output?” Generating valid outputs is in some sense harder than answering
+  these Yes/No questions, because generation implicitly requires answering “Is this valid” about each
+  candidate response**
