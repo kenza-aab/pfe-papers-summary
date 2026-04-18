@@ -30,4 +30,4 @@ Bonne / Élevée.
 
 ---
 
-###Pertinence : Forte.
+### Pertinence : Forte.
